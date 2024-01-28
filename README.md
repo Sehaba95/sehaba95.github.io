@@ -1,5 +1,3 @@
 # sehaba95.github.io
 
-Hello World!
-
-Test
+My personal website: sehaba95.github.io.
