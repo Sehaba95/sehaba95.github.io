@@ -6,8 +6,8 @@ main:
     url: /files/Amine_Sehaba.pdf
 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
 
   - title: "Publications"
     url: /publications/  
