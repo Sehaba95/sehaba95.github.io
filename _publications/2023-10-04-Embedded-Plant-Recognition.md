@@ -11,10 +11,9 @@ date: 2023-10-04
 
 venue: 'IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
 
-paperurl: 'https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Amine_Embedded_Plant_Recognition_A_Benchmark_for_low_Footprint_Deep_Neural_ICCVW_2023_paper.html'
+paperurl: '[Download paper here](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Amine_Embedded_Plant_Recognition_A_Benchmark_for_low_Footprint_Deep_Neural_ICCVW_2023_paper.html)'
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 
 ---
 
-[Download paper here](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Amine_Embedded_Plant_Recognition_A_Benchmark_for_low_Footprint_Deep_Neural_ICCVW_2023_paper.html)
