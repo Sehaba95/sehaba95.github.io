@@ -13,6 +13,13 @@ I am a PhD student in Computer Science at University Lyon 2, advised by Prof. [S
 My research focuses on Computer Vision, Deep Learning, Generative Models, and Graph Neural Networks.
 
 
+
+CV
+======
+[Download](/files/Amine_Sehaba.pdf) my resume. 
+
+
+
 Publications
 ======
 {% for post in site.publications reversed %}
@@ -21,7 +28,3 @@ Publications
 {% endfor %}
 
 
-
-CV
-======
-[Download](/files/Amine_Sehaba.pdf) my resume. 
